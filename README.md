@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahrafiq463&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahrafiq463" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahrafiq463" alt="abdullahrafiq463" /></a> </p>
+- 👨‍💻 I’m currently working as ASE @ **Devisgon**
 
 - 🔭 I’m currently working on **Khaoo Piyoo (Universal Food App)**
 
